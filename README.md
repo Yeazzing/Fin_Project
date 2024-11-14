@@ -1,4 +1,4 @@
-# Fin_Project
+# [DAB 경진대회](https://biz.korea.ac.kr/activities/DTB.html) - 머니멘토팀
 ![image](https://github.com/user-attachments/assets/a3b3e0eb-d79c-440f-830a-3f47a0028410)
 
 
